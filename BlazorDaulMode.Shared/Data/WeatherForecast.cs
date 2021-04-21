@@ -1,6 +1,6 @@
 using System;
 
-namespace BlazorDaulMode.server.Data
+namespace BlazorDaulMode.Shared.Data
 {
     public class WeatherForecast
     {
